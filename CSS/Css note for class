@@ -1,0 +1,30 @@
+the 30 CSS Selectors   
+* {
+ margin: 0;
+ padding: 0;
+}
+
+#container * {
+ border: 1px solid black;
+}
+    2#X hash symbol to a selector allows us to target by id
+#container {
+   width: 960px;
+   margin: auto;
+}
+  
+3. .X
+.error {
+  color: red;
+}
+      4 X Y The next most comment selector is the descendant selector. 
+li a {
+  text-decoration: none;
+}
+       5. X  if you need to target all unordered lists, use ul {}.
+a { color: red; }
+ul { margin-left: 0; }
+     6. X:visited and X:link
+
+a:link { color: red; }
+a:visted { color: purple; }
