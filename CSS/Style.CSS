@@ -1,0 +1,26 @@
+Style.CSS
+body{
+background: blue;
+
+}
+.hello{
+	background-color:red;
+	text-align: center;
+	background-size:100px;
+   }
+
+.mountain{
+	
+    background:green;
+	text-align: left;
+}
+
+.dance{
+	
+    background:green;
+	text-align: left;
+}
+.video{
+	    background:yellow;
+	text-align: left;
+}
