@@ -1,0 +1,55 @@
+
+*{
+	margin: 18px;
+	padding:10px;
+}
+
+.Green{ 
+	background-color:green;
+	display: top-left;
+ }
+.Yellow{ 
+	background-color:Yellow;
+ }
+ .Red{ 
+	background-color:Red;
+ }
+ .Blue{
+ 	background-color: Blue;
+ }
+ 	.Green{
+ 		background-color: Green;
+ 
+display: bottom-right;
+
+ 	}
+.bridgecontainer*{
+
+	margin: 1px;
+	padding:1px;
+	border: 1px solid black;
+}
+ 	
+ 	.bridge container img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
